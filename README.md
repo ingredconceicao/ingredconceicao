@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudando Javascript 
-- 📫 Pode : ingredconceicao0420@gmail.com
+- 📫 E-mail : ingredconceicao0420@gmail.com
 - 😄 Pronouns: ela/ dela
 
 <div align="center">
