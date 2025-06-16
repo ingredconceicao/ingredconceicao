@@ -2,7 +2,6 @@
 
 
 
-- 🌱 Estudando Javascript 
 - 📫 E-mail : ingredconceicao0420@gmail.com
 - 😄 Pronouns: ela/ dela
 
